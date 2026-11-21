@@ -1,0 +1,11 @@
+{
+  "name": "ai.jatater.pocket",
+  "displayName": "Jatater AI Pocket adapter",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Optional Pocket integration for the Jatater AI Unity SDK.",
+  "dependencies": {
+    "com.github.asus4.onnxruntime": "0.4.2",
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  }
+}

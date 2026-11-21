@@ -1,0 +1,14 @@
+{
+  "name": "JataterAI.Steam",
+  "references": [
+    "JataterAI",
+    "com.rlabrecque.steamworks.net"
+  ],
+  "includePlatforms": [
+    "Editor",
+    "WindowsStandalone32",
+    "WindowsStandalone64",
+    "LinuxStandalone64",
+    "macOSStandalone"
+  ]
+}

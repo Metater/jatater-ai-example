@@ -1,0 +1,10 @@
+{
+  "name": "ai.jatater.whisper",
+  "displayName": "Jatater AI Whisper adapter",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Optional Whisper integration for the Jatater AI Unity SDK.",
+  "dependencies": {
+    "com.whisper.unity": "1.4.0"
+  }
+}

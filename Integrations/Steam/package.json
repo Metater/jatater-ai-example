@@ -1,0 +1,10 @@
+{
+  "name": "ai.jatater.steam",
+  "displayName": "Jatater AI Steam adapter",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Optional Steam integration for the Jatater AI Unity SDK.",
+  "dependencies": {
+    "com.rlabrecque.steamworks.net": "2025.163.0"
+  }
+}

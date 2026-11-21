@@ -1,0 +1,7 @@
+{
+  "name": "JataterAI.Whisper",
+  "references": [
+    "JataterAI",
+    "com.whisper.unity"
+  ]
+}

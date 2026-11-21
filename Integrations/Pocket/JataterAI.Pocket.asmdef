@@ -1,0 +1,7 @@
+{
+  "name": "JataterAI.Pocket",
+  "references": [
+    "JataterAI",
+    "PocketTTS"
+  ]
+}
